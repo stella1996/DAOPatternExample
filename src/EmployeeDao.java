@@ -8,6 +8,6 @@ public interface EmployeeDao {
 	public void insertEmployee();
 	public void updateEmployee(Employee employee);
 	public void deleteEmployee(int empId);
-
+ 
 
 }
